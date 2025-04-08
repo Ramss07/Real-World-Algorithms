@@ -5,6 +5,7 @@ This repository showcases visual implementations of classic data structures and 
 Screenshots are included for each project to highlight how the algorithm is visualized through BRIDGES.
 
 ### 1. Binary Search Tree
+![Binary Search Tree Screenshot](screenshots/bst.png)
 
 Generates a BST with 100 random integers and highlights all nodes with keys in the range 80–120. Uses recursive range search and visualizes results with BRIDGES by adjusting node color, size, and shape.
 
@@ -14,6 +15,7 @@ Generates a BST with 100 random integers and highlights all nodes with keys in t
 - Visual data highlighting
 
 ### 2. Linked List of U.S. Cities
+![Binary Search Tree Screenshot](screenshots/bst.png)
 
 Creates a circular singly linked list of 17 U.S. border cities and displays them on a geographic map using BRIDGES. Cities are connected with visual links and placed according to their latitude and longitude.
 
@@ -23,6 +25,7 @@ Creates a circular singly linked list of 17 U.S. border cities and displays them
 - Geographic visualization using real map coordinates
 
 ### 3. Family Tree Graph
+![Binary Search Tree Screenshot](screenshots/bst.png)
 
 Visualizes a family tree using a graph-based structure with labeled vertices for individuals and edges for relationships. Node colors distinguish family roles, and thicker edges highlight direct child-parent connections.
 
@@ -32,6 +35,7 @@ Visualizes a family tree using a graph-based structure with labeled vertices for
 - Custom link thickness for visual emphasis
 
 ### 4. IMDB Actor/Movie Graph
+![Binary Search Tree Screenshot](screenshots/bst.png)
 
 Builds a graph of actors and movies from the IMDB dataset and runs Breadth-First Search (BFS) starting from Kevin Bacon. Each vertex is color-coded based on its level (Bacon number), and link thickness emphasizes traversal paths.
 
@@ -42,6 +46,7 @@ Builds a graph of actors and movies from the IMDB dataset and runs Breadth-First
 - Bi-directional edges and custom labeling
 
 ### 5. Minimum Spanning Tree (Prim’s Algorithm)
+![Binary Search Tree Screenshot](screenshots/bst.png)
 
 Builds MSTs using Prim’s Algorithm on both a small test graph and a real-world dataset of US cities, visualized geographically with BRIDGES. Cities are selected based on population thresholds, and Charlotte, NC is used as the root.
 
