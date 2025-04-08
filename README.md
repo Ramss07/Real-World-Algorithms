@@ -1,6 +1,8 @@
 ## Real World Algorithms
 
-This repository showcases visual implementations of classic data structures and algorithms using the BRIDGES API. Each project demonstrates a different real-world application of concepts like graph traversal, sorting, tree structures, and geographic data visualization. Screenshots are included for each project to highlight how the algorithm is visualized through BRIDGES.
+This repository showcases visual implementations of classic data structures and algorithms using the BRIDGES API. Each project demonstrates a different real-world application of concepts like graph traversal, sorting, tree structures, and geographic data visualization. 
+
+Screenshots are included for each project to highlight how the algorithm is visualized through BRIDGES.
 
 ### 1. Binary Search Tree
 
