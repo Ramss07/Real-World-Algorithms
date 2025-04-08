@@ -5,7 +5,7 @@ This repository showcases visual implementations of classic data structures and 
 Screenshots are included for each project to highlight how the algorithm is visualized through BRIDGES.
 
 ### 1. Binary Search Tree
-![Binary Search Tree Screenshot](screenshots/bst.png)
+![Binary Search Tree Screenshot](ScreenshotsOfVisuals/BinarySearchTree.png)
 
 Generates a BST with 100 random integers and highlights all nodes with keys in the range 80–120. Uses recursive range search and visualizes results with BRIDGES by adjusting node color, size, and shape.
 
